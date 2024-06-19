@@ -1,10 +1,41 @@
-- 👋 Hi, I’m @Lisalin5813010
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Computer Science as Master degree
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Yushan 👋
 
-<!---
-Lisalin5813010/Lisalin5813010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate software developer with a strong interest in coding, web development, and cloud technology. I specialize in both frontend and backend development, and I am currently looking for a job as a software developer.
+
+## About Me
+
+- 🌱 **Learning & Exploring**: Always eager to learn new technologies and improve my skills.
+- 💻 **Coding Enthusiast**: I enjoy solving problems and building efficient solutions.
+
+## Skills
+
+### Frontend Development
+- **Angular**
+- **Vue.js**
+- **Django**
+
+### Backend Development
+- **Spring Boot**
+
+### Container technology
+- **Docker**
+## Projects
+
+Here are some of my projects:
+
+- **[Calculator-Django]**: This is a simple Django project that can perform basic operations: an authorization system, a a alculator, a student table, chart dashboard and a todo-list.
+- **[StudentRegistry-Frontend]**: This Vue.js project, StudentRegistry, features a calculator and a student table. It utilizes PostgreSQL as the database and is powered by a Spring Boot backend.
+- **[StudentRegistry-Backend]**: SpringBoot backend for StudentRegistry
+
+## Get In Touch
+
+- **LinkedIn**: https://www.linkedin.com/in/yushan-lin-7237b0127/
+- **Email**: yushan.lin@outlook.de
+
+I'm currently open to job opportunities as a software developer. Feel free to reach out if you have any questions or just want to connect!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+Thanks for visiting my profile!
