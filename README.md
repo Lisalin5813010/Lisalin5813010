@@ -34,8 +34,4 @@ Here are some of my projects:
 
 I'm currently open to job opportunities as a software developer. Feel free to reach out if you have any questions or just want to connect!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 Thanks for visiting my profile!
